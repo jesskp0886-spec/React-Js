@@ -1,0 +1,276 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --red: #e63946;
+    --orange: #f4a261;
+    --yellow: #f4d35e;
+    --green: #2a9d8f;
+    --blue: #457b9d;
+    --indigo: #3d5a80;
+    --violet: #7b2cbf;
+
+    --rainbow: linear-gradient(90deg, var(--red), var(--orange), var(--yellow), var(--green), var(--blue), var(--indigo), var(--violet));
+
+    --text: #1f2429;
+    --light: #5c6570;
+    --muted: #8b93a1;
+    --bg: #f7f8fa;
+    --white: #fff;
+    --border: #e6e8ec;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 960px;
+    margin: auto;
+    padding: 0 20px 30px;
+}
+
+header {
+    background: #14171f;
+    padding: 35px 20px 25px;
+    text-align: center;
+    border-bottom: 5px solid transparent;
+    border-image: var(--rainbow) 1;
+}
+
+header h1 {
+    color: white;
+    font-size: 30px;
+}
+
+header p {
+    color: #a7adb8;
+    font-size: 14px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    color: var(--muted);
+}
+
+.Welcome,
+.section {
+    background: var(--white);
+    border-radius: 16px;
+    box-shadow: 0 4px 16px #00000012;
+    margin: 25px 0;
+}
+
+.Welcome {
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    flex-wrap: wrap;
+    border-top: 4px solid transparent;
+    border-image: var(--rainbow) 1;
+}
+
+.Welcome h2 {
+    font-size: 22px;
+}
+
+.Welcome p {
+    font-size: 15px;
+}
+
+.Welcome p strong {
+    display: block;
+    color: var(--light);
+    font-size: 13px;
+}
+
+.student-image {
+    width: 88px;
+    height: 88px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-left: auto;
+    border: 3px solid white;
+    box-shadow: 0 0 0 3px var(--blue);
+}
+
+.section {
+    padding: 25px;
+}
+
+.section h2 {
+    font-size: 18px;
+    padding-left: 12px;
+    border-left: 5px solid var(--blue);
+    margin-bottom: 20px;
+}
+
+.section h3 {
+    font-size: 13px;
+    color: var(--light);
+    margin-bottom: 8px;
+}
+
+.section p {
+    margin-bottom: 12px;
+}
+
+.output-box p {
+    background: var(--bg);
+    padding: 10px 15px;
+    border-left: 3px solid var(--green);
+    border-radius: 8px;
+    color: var(--indigo);
+    font-family: Consolas, monospace;
+}
+
+.student-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+    gap: 15px;
+}
+
+.student-card {
+    background: white;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid var(--border);
+    border-top: 4px solid var(--red);
+    border-radius: 16px;
+    transition: 0.2s;
+}
+
+.student-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px #0002;
+}
+
+.student-card h3 {
+    color: var(--text);
+    font-size: 16px;
+}
+
+.student-card p {
+    color: var(--light);
+    font-size: 14px;
+}
+
+.student-card:nth-child(7n+2) {
+    border-top-color: var(--orange);
+}
+
+.student-card:nth-child(7n+3) {
+    border-top-color: var(--yellow);
+}
+
+.student-card:nth-child(7n+4) {
+    border-top-color: var(--green);
+}
+
+.student-card:nth-child(7n+5) {
+    border-top-color: var(--blue);
+}
+
+.student-card:nth-child(7n+6) {
+    border-top-color: var(--indigo);
+}
+
+.student-card:nth-child(7n+7) {
+    border-top-color: var(--violet);
+}
+
+.state-box {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+button {
+    padding: 8px 18px;
+    border: none;
+    border-radius: 8px;
+    background: linear-gradient(90deg, var(--blue), var(--violet));
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+button:hover {
+    transform: translateY(-1px);
+}
+
+.reset-button {
+    background: linear-gradient(90deg, var(--red), var(--orange));
+}
+
+.manager {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.manager input {
+    max-width: 280px;
+    padding: 9px 14px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--bg);
+}
+
+.manager button {
+    align-self: flex-start;
+}
+
+.manager ul {
+    list-style: none;
+}
+
+.manager li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--bg);
+    padding: 10px 15px;
+    margin: 6px 0;
+    border-left: 3px solid var(--green);
+    border-radius: 8px;
+}
+
+.manager li button {
+    background: var(--red);
+    padding: 4px 10px;
+    font-size: 12px;
+}
+
+@media (max-width: 640px) {
+    .Welcome {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .student-image {
+        margin: auto;
+    }
+
+    .student-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    header h1 {
+        font-size: 23px;
+    }
+}
+
+@media (max-width: 420px) {
+    .student-grid {
+        grid-template-columns: 1fr;
+    }
+}
