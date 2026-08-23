@@ -1,0 +1,14 @@
+.curved-arrow {
+    width: 40px;
+    height: 40px;
+    overflow: visible;
+}
+
+.arrow-line,
+.arrow-head {
+    fill: none;
+    stroke: #111;
+    stroke-width: 1.8;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}

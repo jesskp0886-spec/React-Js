@@ -1,0 +1,67 @@
+.clients__card {
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: center;
+  background: var(--clr-light-bg);
+  padding: 50px;
+  border-radius: var(--radius);
+}
+
+.clients__avatar {
+  width: 90px;
+  height: 90px;
+  min-height: unset;
+  border-radius: 50%;
+  margin: 0 auto 20px;
+  background-color: var(--clr-primary);
+  color: var(--clr-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.clients__text {
+  font-size: 18px;
+  font-style: italic;
+  margin-bottom: 22px;
+}
+
+.clients__name {
+  font-size: 18px;
+  margin-bottom: 2px;
+}
+
+.clients__role {
+  color: var(--clr-primary);
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.clients__dots {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 26px;
+}
+
+.clients__dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 2px solid var(--clr-primary);
+  background: transparent;
+  cursor: pointer;
+}
+
+.clients__dot.is-active {
+  background: var(--clr-primary);
+}
+
+@media (max-width: 700px) {
+  .clients__card {
+    padding: 30px 20px;
+  }
+}
