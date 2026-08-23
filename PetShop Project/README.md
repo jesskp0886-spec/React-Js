@@ -27,12 +27,12 @@ A 3-minute walkthrough covering the tech stack, folder structure, component brea
 A closer look at each section of the site:
 
 | Hero Section | 
-|---|---|
+
  ![Hero](./screenshots/hero.png)
 
 | Mobile View |
-|---|
- ![Mobile](./screenshots/mobile.png) 
+
+ ![PetShop Project/Output-1.png](./screenshots/mobile.png) 
 | Fully responsive layout, tested down to small screens |
 
 
