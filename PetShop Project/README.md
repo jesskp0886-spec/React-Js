@@ -28,11 +28,11 @@ A closer look at each section of the site:
 
 | Hero Section | 
 
- ![Hero](./screenshots/hero.png)
+ ![PetShop Project/Output-1.png](https://github.com/jesskp0886-spec/React-Js/blob/b1e781b9598221b1316b08498392926215abc943/PetShop%20Project/Output-1.png)
 
 | Mobile View |
 
- ![PetShop Project/Output-1.png](./screenshots/mobile.png) 
+ ![PetShop Project/Output-2.png](https://github.com/jesskp0886-spec/React-Js/blob/b1e781b9598221b1316b08498392926215abc943/PetShop%20Project/Output-2.png) 
 | Fully responsive layout, tested down to small screens |
 
 
