@@ -23,11 +23,11 @@ https://drive.google.com/file/d/1l0_3hD2ucI0Tbj6SXiWQG1caNEySTJg7/view?usp=shari
 
 | Hero Section | Projects Section |
 |---|---|
-| ![Hero]([./screenshots/hero.png](https://github.com/jesskp0886-spec/React-Js/blob/a708acc8353067bc7ed994d73b0d73fa9be651d8/Portfolio/Output/hero.png)) | ![Project]([./screenshots/projects.png](https://github.com/jesskp0886-spec/React-Js/blob/a708acc8353067bc7ed994d73b0d73fa9be651d8/Portfolio/Output/project.png)) |
+| ![Hero](https://github.com/jesskp0886-spec/React-Js/blob/a708acc8353067bc7ed994d73b0d73fa9be651d8/Portfolio/Output/hero.png) | ![Project](https://github.com/jesskp0886-spec/React-Js/blob/a708acc8353067bc7ed994d73b0d73fa9be651d8/Portfolio/Output/project.png) |
 
 | Skills Section | Contact Section |
 |---|---|
-| ![Skill]([./screenshots/skills.png](https://github.com/jesskp0886-spec/React-Js/blob/a708acc8353067bc7ed994d73b0d73fa9be651d8/Portfolio/Output/skill.png)) | ![Contact]([./screenshots/contact.png](https://github.com/jesskp0886-spec/React-Js/blob/a708acc8353067bc7ed994d73b0d73fa9be651d8/Portfolio/Output/contact.png)) |
+| ![Skill](https://github.com/jesskp0886-spec/React-Js/blob/a708acc8353067bc7ed994d73b0d73fa9be651d8/Portfolio/Output/skill.png) | ![Contact](https://github.com/jesskp0886-spec/React-Js/blob/a708acc8353067bc7ed994d73b0d73fa9be651d8/Portfolio/Output/contact.png) |
 
 ---
 
