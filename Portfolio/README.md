@@ -23,11 +23,11 @@ https://drive.google.com/file/d/1l0_3hD2ucI0Tbj6SXiWQG1caNEySTJg7/view?usp=shari
 
 | Hero Section | Projects Section |
 |---|---|
-| ![./Output/hero.png]([./screenshots/hero.png](https://github.com/jesskp0886-spec/React-Js/blob/a708acc8353067bc7ed994d73b0d73fa9be651d8/Portfolio/Output/hero.png)) | ![./Output/project.png]([./screenshots/projects.png](https://github.com/jesskp0886-spec/React-Js/blob/a708acc8353067bc7ed994d73b0d73fa9be651d8/Portfolio/Output/project.png)) |
+| ![Portfolio/Output/hero.png]([./screenshots/hero.png](https://github.com/jesskp0886-spec/React-Js/blob/a708acc8353067bc7ed994d73b0d73fa9be651d8/Portfolio/Output/hero.png)) | ![Portfolio/Output/project.png]([./screenshots/projects.png](https://github.com/jesskp0886-spec/React-Js/blob/a708acc8353067bc7ed994d73b0d73fa9be651d8/Portfolio/Output/project.png)) |
 
 | Skills Section | Contact Section |
 |---|---|
-| ![./Output/skill.png]([./screenshots/skills.png](https://github.com/jesskp0886-spec/React-Js/blob/a708acc8353067bc7ed994d73b0d73fa9be651d8/Portfolio/Output/skill.png)) | ![./Output/contact.png]([./screenshots/contact.png](https://github.com/jesskp0886-spec/React-Js/blob/a708acc8353067bc7ed994d73b0d73fa9be651d8/Portfolio/Output/contact.png)) |
+| ![Portfolio/Output/skill.png]([./screenshots/skills.png](https://github.com/jesskp0886-spec/React-Js/blob/a708acc8353067bc7ed994d73b0d73fa9be651d8/Portfolio/Output/skill.png)) | ![Portfolio/Output/contact.png]([./screenshots/contact.png](https://github.com/jesskp0886-spec/React-Js/blob/a708acc8353067bc7ed994d73b0d73fa9be651d8/Portfolio/Output/contact.png)) |
 
 > Add your screenshots inside a `/screenshots` folder in the project root and update the file names/paths above.
 
