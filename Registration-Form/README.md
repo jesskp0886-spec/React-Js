@@ -41,3 +41,17 @@ npm run preview   # preview the production build
 - Tailwind CSS v4
 - Flowbite / Flowbite React
 - lucide-react for the edit/delete/close icons
+
+## Demo Video
+
+https://drive.google.com/file/d/1GOnHRzbzqKrpzeN-eBE2cd4Goj8aetS2/view?usp=sharing
+
+## Explanation Video
+
+[Watch the explanation video](#)
+
+## Output
+
+**Registration form**
+
+![Registration form](https://github.com/jesskp0886-spec/React-Js/blob/0173e58cecfadc8b31fbcb80fb09f3f4112edf4d/Registration-Form/Output.png)
