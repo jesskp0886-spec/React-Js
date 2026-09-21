@@ -1,0 +1,24 @@
+@import "tailwindcss";
+@import "flowbite-react/plugin/tailwindcss";
+@source "../.flowbite-react/class-list.json";
+
+@theme {
+  --color-ink: #211d1a;
+  --color-ink-soft: #38312b;
+  --color-cream: #f5efdd;
+  --color-cream-dark: #ecdfbb;
+  --color-coral: #e8623d;
+  --color-coral-dark: #c94e2e;
+  --color-mustard: #eeb93b;
+  --color-mustard-dark: #d9a324;
+  --color-tan: #e9dbb8;
+
+  --font-display: "Segoe UI", "Helvetica Neue", Arial, system-ui, sans-serif;
+  --font-sans: "Segoe UI", "Helvetica Neue", Arial, system-ui, sans-serif;
+}
+
+body {
+  background-color: var(--color-cream);
+  margin: 0;
+  font-family: var(--font-sans);
+}
