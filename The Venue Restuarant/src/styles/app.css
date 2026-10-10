@@ -1,0 +1,73 @@
+/* Global tweaks that apply on every page */
+.main_nav ul li a.active {
+  color: #ffa07f;
+}
+
+.pagination .page-link {
+  color: #636363;
+  cursor: pointer;
+}
+.pagination .page-item.active .page-link {
+  background: #ffa07f;
+  border-color: #ffa07f;
+  color: #fff;
+}
+.pagination .page-link:focus {
+  box-shadow: 0 0 0 0.2rem rgba(255, 160, 127, 0.35);
+}
+
+/* custom video modal */
+.video_modal {
+  position: fixed;
+  inset: 0;
+  z-index: 4000;
+  background: rgba(0, 0, 0, 0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+.video_modal_inner {
+  position: relative;
+  width: min(900px, 100%);
+  aspect-ratio: 16 / 9;
+  background: #000;
+}
+.video_modal_inner iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+.video_modal_close {
+  position: absolute;
+  top: -42px;
+  right: 0;
+  background: none;
+  border: 0;
+  color: #fff;
+  font-size: 34px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+/* testimonials dots */
+.slider_dots {
+  margin-top: 30px;
+}
+.slider_dots button {
+  width: 10px;
+  height: 10px;
+  margin: 0 5px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.45);
+  cursor: pointer;
+}
+.slider_dots button.active {
+  background: #ffa07f;
+}
+
+.res_select_time {
+  appearance: auto;
+}
