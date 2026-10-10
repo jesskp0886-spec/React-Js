@@ -32,15 +32,13 @@ The whole stack starts with a single command. JSON Server runs inside the Vite d
 
 A short walkthrough (under 3 minutes) of the project goals, architecture and key design decisions.
 
-> **Watch:** [`https://drive.google.com/file/d/1nKfMHpTxKDjyPw-htS3VlE_iO98PBRUp/view?usp=sharing`](#)
-
-The narration script is available in [`VIDEO_SCRIPT.md`](./VIDEO_SCRIPT.md).
+> **Watch:** https://drive.google.com/file/d/1nKfMHpTxKDjyPw-htS3VlE_iO98PBRUp/view?usp=sharing
 
 ## 🖥️ Demo Video
 
 A live walkthrough of the public site, the blog, and the admin workflow.
 
-> **Watch:** [`(https://drive.google.com/file/d/1x85iy0qPT4i_TJ9XHP2QAgaxONJs78tf/view?usp=sharing`](#)
+> **Watch:** https://drive.google.com/file/d/1x85iy0qPT4i_TJ9XHP2QAgaxONJs78tf/view?usp=sharing
 
 ## 📸 Screenshots
 
