@@ -1,0 +1,114 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Our Nominee at the Restaurant Awards",
+      "excerpt": "The Venue has been shortlisted for Best Newcomer. Here is what the nomination means to our team.",
+      "content": "We are thrilled to share that The Venue has been nominated at this year's Restaurant Awards in the Best Newcomer category. It is a recognition of every cook, server and supplier who has helped us build something we are proud of.\n\nOver the last twelve months the kitchen team has reworked the menu around seasonal produce from nearby farms. Guests have noticed, and the feedback from critics has been generous.\n\nThe ceremony takes place next month. Whatever happens, we are grateful to everyone who has booked a table and shared our story.",
+      "image": "/images/blog_1.jpg",
+      "category": "News",
+      "author": "George Smith",
+      "status": "published",
+      "createdAt": "2026-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "title": "Recipe of the Week: Pork Tenderloin",
+      "excerpt": "A signature dish you can recreate at home, from marinade to plate in under an hour.",
+      "content": "This week's recipe is our pork tenderloin with green pepper, a dish that has become a favourite on the signature menu. It is simple to make at home and looks impressive on the table.\n\nStart by marinating the tenderloin for at least two hours with crushed green peppercorns, garlic and a splash of olive oil. Sear it in a hot pan, then finish in the oven until the centre is just pink.\n\nRest the meat for ten minutes before slicing. Serve with sauteed seasonal vegetables and a spoonful of the pan juices.",
+      "image": "/images/blog_2.jpg",
+      "category": "Recipes",
+      "author": "Maria Smith",
+      "status": "published",
+      "createdAt": "2026-09-21T09:30:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "A Simple Guide to Pairing Wine with Dinner",
+      "excerpt": "Our sommelier shares three easy rules for choosing a bottle that suits what is on your plate.",
+      "content": "Choosing the right wine can lift a good dinner into a memorable one. Our sommelier shares a few simple rules that work whether you are ordering at the restaurant or opening a bottle at home.\n\nMatch the weight of the wine to the weight of the dish: light whites with seafood, fuller reds with roasted meats. When in doubt, ask for something from the same region as the food.\n\nDo not be afraid to try something new. Some of the best pairings are happy accidents.",
+      "image": "/images/blog_3.jpg",
+      "category": "Lifestyle",
+      "author": "William Jones",
+      "status": "published",
+      "createdAt": "2026-09-14T17:45:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Seasonal Menu: What's New This Autumn",
+      "excerpt": "Wild mushrooms, roasted squash and slow-cooked beef arrive on the menu this month.",
+      "content": "Autumn is when the kitchen comes alive. Our new seasonal menu leans on wild mushrooms, roasted squash and slow-cooked beef, all sourced from growers within an hour of the restaurant.\n\nLook out for the chestnut soup starter and the apple tart that has already become a staff favourite.",
+      "image": "/images/blog_4.jpg",
+      "category": "News",
+      "author": "George Smith",
+      "status": "published",
+      "createdAt": "2026-09-07T12:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Meet the Chefs: Julien Williams",
+      "excerpt": "Our sushi chef on his training, his favourite knife and the best advice he ever received.",
+      "content": "Julien Williams joined The Venue two years ago after training in Osaka. He describes his style as patient and precise, with respect for the ingredient above everything else.\n\nWe sat down with him to talk about his favourite knife, the dish he is proudest of and what he cooks at home on his day off.",
+      "image": "/images/blog_5.jpg",
+      "category": "Lifestyle",
+      "author": "Suzie James",
+      "status": "published",
+      "createdAt": "2026-08-30T08:15:00.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Hosting a Dinner Party: Our Top Tips",
+      "excerpt": "Plan the menu, set the mood and enjoy your own party with these practical ideas from our front-of-house team.",
+      "content": "A good dinner party starts with a menu you can mostly prepare ahead. Choose a cold starter, a main that can rest in the oven and a dessert made the day before.\n\nKeep the lighting low, the music quiet and the table uncluttered. Your guests will remember the atmosphere as much as the food.",
+      "image": "/images/blog_6.jpg",
+      "category": "Lifestyle",
+      "author": "Maria Smith",
+      "status": "published",
+      "createdAt": "2026-08-22T19:00:00.000Z"
+    },
+    {
+      "id": 7,
+      "title": "The Perfect Lava Cake",
+      "excerpt": "Why your chocolate lava cake sinks, and the two-minute fix our pastry team swears by.",
+      "content": "The secret to a molten centre is timing. Pull the cakes from the oven when the edges are set but the middle still wobbles.\n\nButter and cocoa-dust the ramekins well, and let the cakes stand for one minute before turning them out.",
+      "image": "/images/blog_2.jpg",
+      "category": "Recipes",
+      "author": "Julien Williams",
+      "status": "published",
+      "createdAt": "2026-08-15T11:20:00.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Live Jazz Nights Return in November",
+      "excerpt": "Every Friday evening, enjoy a three-course dinner with a live quartet in the main dining room.",
+      "content": "After a successful summer trial we are bringing live jazz back every Friday evening in November.\n\nA set menu is available for the evenings. Tables fill quickly, so we recommend reserving early.",
+      "image": "/images/blog_1.jpg",
+      "category": "Events",
+      "author": "George Smith",
+      "status": "published",
+      "createdAt": "2026-08-08T14:00:00.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Behind the Scenes: A Day in Our Kitchen",
+      "excerpt": "From the first delivery at six in the morning to the last plate at night, a look at how service comes together.",
+      "content": "The day begins before sunrise with deliveries of fish, vegetables and bread. By nine the stock is simmering and the prep team is deep into their lists.\n\nService is a choreography of timing and trust. We invite you to peek behind the pass.",
+      "image": "/images/blog_3.jpg",
+      "category": "Lifestyle",
+      "author": "Suzie James",
+      "status": "published",
+      "createdAt": "2026-08-01T07:00:00.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Easy Weeknight Garlic Shrimp",
+      "excerpt": "Ready in fifteen minutes and made with ingredients you probably already have.",
+      "content": "Heat olive oil in a wide pan, add plenty of sliced garlic and cook until just fragrant.\n\nAdd the shrimp, a pinch of chilli and a squeeze of lemon. Cook for two minutes per side and finish with parsley.",
+      "image": "/images/blog_4.jpg",
+      "category": "Recipes",
+      "author": "William Jones",
+      "status": "published",
+      "createdAt": "2026-07-25T18:30:00.000Z"
+    }
+  ]
+}
