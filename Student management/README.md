@@ -4,7 +4,7 @@ A student management app built with React (Vite), Redux Thunk, React Router, Boo
 
 ## Output
 
-![Output](screenshots/output.png)
+![Output](https://github.com/jesskp0886-spec/React-Js/blob/3faf97dea79ab1676cb02f814abc6e6c2d19b5cf/Student%20management/output.png)
 
 ## Demo Video
 
