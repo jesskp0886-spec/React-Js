@@ -11,8 +11,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-4.1-7952B3?logo=bootstrap&logoColor=white)
 ![Status](https://img.shields.io/badge/status-active-success)
 
-[Explainer Video](https://drive.google.com/file/d/1nKfMHpTxKDjyPw-htS3VlE_iO98PBRUp/view?usp=sharing) 
-[Demo Video](https://drive.google.com/file/d/1x85iy0qPT4i_TJ9XHP2QAgaxONJs78tf/view?usp=sharing) 
+[Explainer Video]() 
+[Demo Video]() 
 [Screenshots](#-screenshots) 
 
 </div>
@@ -32,7 +32,7 @@ The whole stack starts with a single command. JSON Server runs inside the Vite d
 
 A short walkthrough (under 3 minutes) of the project goals, architecture and key design decisions.
 
-> **Watch:** [`ADD EXPLAINER VIDEO LINK HERE`](#)
+> **Watch:** [`https://drive.google.com/file/d/1nKfMHpTxKDjyPw-htS3VlE_iO98PBRUp/view?usp=sharing`](#)
 
 The narration script is available in [`VIDEO_SCRIPT.md`](./VIDEO_SCRIPT.md).
 
@@ -40,31 +40,14 @@ The narration script is available in [`VIDEO_SCRIPT.md`](./VIDEO_SCRIPT.md).
 
 A live walkthrough of the public site, the blog, and the admin workflow.
 
-> **Watch:** [`ADD DEMO VIDEO LINK HERE`](#)
+> **Watch:** [`(https://drive.google.com/file/d/1x85iy0qPT4i_TJ9XHP2QAgaxONJs78tf/view?usp=sharing`](#)
 
 ## 📸 Screenshots
 
-> Place images in `docs/screenshots/` and replace the placeholders below.
-
-| Home | Public Blog |
+| Home |
 | :---: | :---: |
-| ![Home page](docs/screenshots/home.png) | ![Blog listing](docs/screenshots/blog-list.png) |
+| ![Home page](https://github.com/jesskp0886-spec/React-Js/blob/d60a5f67636a68b0dc699eb78a0209963e81c20e/The%20Venue%20Restuarant/img.png) | 
 | *Landing page with hero, intro, menu highlights and testimonials* | *Search, category filter, sorting and pagination* |
-
-| Blog Detail | Admin Dashboard |
-| :---: | :---: |
-| ![Blog detail](docs/screenshots/blog-detail.png) | ![Admin dashboard](docs/screenshots/admin-dashboard.png) |
-| *Single post view with full content* | *Stats cards, filters, publish toggle and delete* |
-
-| Create / Edit Post | Validation & Confirmation |
-| :---: | :---: |
-| ![Blog form](docs/screenshots/blog-form.png) | ![Validation](docs/screenshots/validation.png) |
-| *Validated form for new and existing posts* | *Inline errors and delete confirmation modal* |
-
-| Menu | Mobile View |
-| :---: | :---: |
-| ![Menu page](docs/screenshots/menu.png) | ![Mobile](docs/screenshots/mobile.png) |
-| *Menu rendered from structured data* | *Responsive layout on small screens* |
 
 ## ✨ Features
 
